@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            background: #fff;
+            padding: 20px;
+            margin: 0 auto;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h2 {
+            margin-top: 20px;
+        }
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Terms of Service</h1>
+        <p>Last updated: [Date]</p>
+
+        <h2>1. Acceptance of Terms</h2>
+        <p>By using Romania Society (the "Bot"), you agree to comply with and be bound by these Terms of Service (the "Terms"). If you do not agree to these Terms, you may not use the Bot.</p>
+
+        <h2>2. Description of the Bot</h2>
+        <p>The Bot provides functionalities to edit voice channels based on your YouTube statistics, such as views and subscribers. The Bot is available for use on Discord servers (the "Servers").</p>
+
+        <h2>3. Use of the Bot</h2>
+        <p>You agree to use the Bot only for lawful purposes and in accordance with these Terms. You must not use the Bot to:</p>
+        <ul>
+            <li>Engage in any illegal activities or promote any illegal activities.</li>
+            <li>Harass, abuse, or harm others.</li>
+            <li>Distribute spam, chain letters, or other unsolicited messages.</li>
+            <li>Impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity.</li>
+            <li>Engage in any activity that could disrupt, damage, or disable the Bot or the Servers.</li>
+        </ul>
+
+        <h2>4. Privacy</h2>
+        <p>We respect your privacy. Please review our Privacy Policy to learn more about how we collect, use, and share your information.</p>
+
+        <h2>5. Intellectual Property</h2>
+        <p>The Bot and its original content, features, and functionality are and will remain the exclusive property of Alex Gamer and its licensors. The Bot is protected by copyright, trademark, and other laws of both the United States and foreign countries.</p>
+
+        <h2>6. Termination</h2>
+        <p>We may terminate or suspend your access to the Bot immediately, without prior notice or liability, for any reason whatsoever, including, without limitation, if you breach these Terms.</p>
+
+        <h2>7. Disclaimer of Warranties</h2>
+        <p>The Bot is provided "as is" and "as available" without any warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement, or course of performance.</p>
+
+        <h2>8. Limitation of Liability</h2>
+        <p>In no event shall Alex Gamer, its affiliates, or its licensors be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your use or inability to use the Bot; (ii) any unauthorized access to or use of our servers and/or any personal information stored therein; (iii) any interruption or cessation of transmission to or from the Bot; (iv) any bugs, viruses, trojan horses, or the like that may be transmitted to or through the Bot by any third party; (v) any errors or omissions in any content or for any loss or damage incurred as a result of the use of any content posted, emailed, transmitted, or otherwise made available through the Bot; and/or (vi) the defamatory, offensive, or illegal conduct of any third party.</p>
+
+        <h2>9. Changes to Terms</h2>
+        <p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p>
+
+        <h2>10. Contact Us</h2>
+        <p>If you have any questions about these Terms, please contact us at alexgamer0x0email@gmail.com.</p>
+    </div>
+</body>
+</html>
